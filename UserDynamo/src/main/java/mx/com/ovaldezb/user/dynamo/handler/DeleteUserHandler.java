@@ -10,9 +10,6 @@ import com.amazonaws.services.lambda.runtime.RequestHandler;
 import com.google.gson.Gson;
 import mx.com.ovaldezb.user.dynamo.entity.Condominio;
 import mx.com.ovaldezb.user.dynamo.entity.GatewayResponse;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
 
 import java.util.List;
 import java.util.Map;
