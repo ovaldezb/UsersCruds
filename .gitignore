@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+/target
+/CDK-Module/cdk.out
+/CDK-Module/target
+/UserDynamo/target
+/UserLambdaCrud/target
